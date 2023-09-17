@@ -392,7 +392,7 @@ ACM MM 2023. [[Paper](https://arxiv.org/abs/2308.10257)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2308.10187)] \
 20 Aug 2023
 
-**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation** \
+**SciRE-Solver: Accelerating Diffusion Models Sampling by Score-integrand Solver with Recursive Difference** \
 *Shigui Li, Wei Chen, Delu Zeng* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2308.07896)] \
 15 Aug 2023
